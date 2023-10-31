@@ -7,6 +7,14 @@
     "home_page_url": "https://shineyyh.github.io",
     "items": [
         {
+            "id": "https://shineyyh.github.io/2023/10/31/about/",
+            "url": "https://shineyyh.github.io/2023/10/31/about/",
+            "title": "about",
+            "date_published": "2023-10-31T06:33:40.000Z",
+            "content_html": "",
+            "tags": []
+        },
+        {
             "id": "https://shineyyh.github.io/2023/10/31/hello-world/",
             "url": "https://shineyyh.github.io/2023/10/31/hello-world/",
             "title": "Hello World",

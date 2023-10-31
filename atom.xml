@@ -8,7 +8,14 @@
     <author>
       <name>Shineyyh</name>
     </author>
-    <updated>2023-10-31T03:30:14.511Z</updated>
+    <updated>2023-10-31T06:33:40.000Z</updated>
+    <entry>
+        <id>https://shineyyh.github.io/2023/10/31/about/</id>
+        <title>about</title>
+        <link rel="alternate" href="https://shineyyh.github.io/2023/10/31/about/"/>
+        <content type="html"></content>
+        <updated>2023-10-31T06:33:40.000Z</updated>
+    </entry>
     <entry>
         <id>https://shineyyh.github.io/2023/10/31/hello-world/</id>
         <title>Hello World</title>
